@@ -1,29 +1,28 @@
-# Semana OmniStack 10.0 da Rocketseat :rocket:
+# Semana OmniStack 10.0 of Rocketseat :rocket:
 
-## :rocket: Tecnologias usadas
-Este maravilhoso projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Technologies used
+This project was developed using this technologies:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## :computer: Projeto
+## :computer: Project
 
-O DevRadar é um projeto que visa conectar desenvolvedores com clientes por meio da localidade, em um raio de 10km.
+DevRadar is a project that allows developers to connect with other developers using geolocalization.
 
-## :mortar_board: Quem ministrou?
+## :mortar_board: Instructor?
 
-A semana foi ministrada pelo Mestre Jedi [Diego Fernandes](https://github.com/diego3g)
+The instructor was [Diego Fernandes](https://github.com/diego3g)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) para mais detalhes.
 
-## :muscle: Quem deu aquela força para não desistir?
+## :muscle: Community around the week?
 
-O pessoal  da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
-Entrem   [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+Other students assisting to the Omnistack weekcan be found here: [Rocketseat Community :rocket:](https://discordapp.com/invite/gCRAFhc)
 
 ---
 
-Feito com :purple_heart: by David Giraldo :wave:
+Done with :purple_heart: by David Giraldo :wave:
