@@ -11,7 +11,7 @@ This project was developed using this technologies:
 
 DevRadar is a project that allows developers to connect with other developers using geolocalization.
 
-## :mortar_board: Instructor?
+## :mortar_board: Instructor
 
 The instructor was [Diego Fernandes](https://github.com/diego3g)
 
@@ -21,7 +21,7 @@ This project is under the license of MIT. See here the archive [LICENSE](LICENSE
 
 ## :muscle: Community around the week?
 
-Other students assisting to the Omnistack weekcan be found here: [Rocketseat Community :rocket:](https://discordapp.com/invite/gCRAFhc)
+Other students assisting to the Omnistack week can be found here: [Rocketseat Community :rocket:](https://discordapp.com/invite/gCRAFhc)
 
 ---
 
