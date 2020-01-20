@@ -15,7 +15,7 @@ DevRadar is a project that allows developers to connect with other developers us
 
 The instructor was [Diego Fernandes](https://github.com/diego3g)
 
-## :memo: Licença
+## :memo: License
 
 This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) para mais detalhes.
 
